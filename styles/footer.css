@@ -1,0 +1,17 @@
+footer {
+    display: flex;
+    padding-left:  32px;
+    padding-right: 32px;
+    padding-bottom: 20px;
+
+}
+
+footer span:nth-child(1) {
+    margin-right: auto;
+
+}
+
+footer span:nth-child(2) {
+    margin-right: 20PX;
+
+}
